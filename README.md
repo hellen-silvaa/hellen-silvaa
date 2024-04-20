@@ -60,7 +60,10 @@ sharing my learnings on Medium</h3>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
     
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
 <p align="center" >   
-  <img src="https://github.com/hellen-silvaa" />  
+  <img src="https://profile-counter.glitch.me/hellen-silvaa/count.svg" />  
 </p>
- 
