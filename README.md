@@ -33,7 +33,7 @@ sharing my learnings on Medium</h3>
                                                                                                                                      
 - 📖 **Data Science**\
 📆 2024 - 202!\
-📍 **...** - São Paulo, Brasil                                                                                                                                   
+📍 **UNINTER** - São Paulo, Brasil                                                                                                                                   
                                                                                                                                      
 - 📖 **Mechatronics Technician**\
 📆 2022 - 2024\
