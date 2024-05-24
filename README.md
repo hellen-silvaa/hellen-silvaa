@@ -32,7 +32,7 @@ sharing my learnings on Medium</h3>
 📍 **FIAP** - São Paulo, Brasil
                                                                                                                                      
 - 📖 **Data Science**\
-📆 2024 - 202!\
+📆 2024 - 2026\
 📍 **UNINTER** - São Paulo, Brasil                                                                                                                                   
                                                                                                                                      
 - 📖 **Mechatronics Technician**\
