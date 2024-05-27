@@ -38,7 +38,6 @@ sharing my learnings on Medium</h3>
 📆 2022 - 2024\
 📍 **Senai Anchieta** - São Paulo, Brasil
                                                                                                                                      
-
 </details>
 
 
