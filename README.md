@@ -26,14 +26,13 @@ sharing my learnings on Medium</h3>
   
 ## Formação
 
-- 📖 **Software Engineering**\
-📆 2024 - 2027\
-📍 **FIAP** - São Paulo, Brasil
-                                                                                                                                     
 - 📖 **Data Science**\
 📆 2024 - 2026\
-📍 **UNINTER** - São Paulo, Brasil                                                                                                                                   
-                                                                                                                                     
+📍 **UNINTER** - São Paulo, Brasil
+
+- 📖 **Software Engineering**\
+📆 2024 - 2027\
+📍 **FIAP** - São Paulo, Brasil                                                                                                                                                                                                                                                                                                                                                                                                     
 - 📖 **Mechatronics Technician**\
 📆 2022 - 2024\
 📍 **Senai Anchieta** - São Paulo, Brasil
