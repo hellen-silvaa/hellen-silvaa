@@ -5,7 +5,7 @@ sharing my learnings on Medium</h3>
 <br>
 <p align='center'>
   
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellen-silvaa&layout=compact&theme=radical&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellen-silvaa&layout=compact&theme=radical&langs_count=8">
   
 </p>
 <br>
