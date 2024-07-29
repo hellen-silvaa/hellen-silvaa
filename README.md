@@ -1,7 +1,7 @@
 <h1 align='center'> Hello, my name is Hellen </h1>
 
-<h3 align='center'>I'm looking for my first opportunity in IT and I'm<br>
-sharing my learnings on Medium</h3>
+<h3 align='center'>I'm looking for my first opportunity in IT
+</h3>
 <br>
 <p align='center'>
   
@@ -13,9 +13,6 @@ sharing my learnings on Medium</h3>
   
   <a href="https://www.linkedin.com/in/hellen-silva-/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-    <a href="https://medium.com/@hellen.aparecidams">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
 </p>
