@@ -1,8 +1,4 @@
-<h1 align='center'> Hello, my name is Hellen </h1>
 
-<h3 align='center'>I'm looking for my first opportunity in IT
-</h3>
-<br>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellen-silvaa&layout=compact&theme=radical&langs_count=8">
 </p>
