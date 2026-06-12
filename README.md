@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hellen-silvaa&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
+
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hellen-silvaa&theme=transparent&hide_border=falso&short_numbers=falso" alt="GitHub Streak" /></a>
+  </div>
+  
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
   <p align="center">   
